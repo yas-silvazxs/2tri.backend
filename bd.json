@@ -1,0 +1,58 @@
+[
+  {
+    "nome": "gabriel ganley",
+    "cpf": "095-987-765-87",
+    "cep": "84065-987",
+    "nascimento": "2002-12-25",
+    "rua": "Rua Professor João sezinando de Oliveira",
+    "numero": "245",
+    "bairro": "Vila andurinhas",
+    "cidade": "Ponta grossa",
+    "uf": "PR",
+    "email": "lucas.henrique@email.com",
+    "celular": "(2)99822-8543",
+    "senha": "yas@3633647"
+  },
+  {
+    "nome": "Anna maria alvez da cruz silva",
+    "cpf": "387.459.612-78",
+    "cep": "98735-254",
+    "nascimento": "2000-11-22",
+    "rua": "Avenida Batel",
+    "numero": "1458",
+    "bairro": "Batel",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "email": "ana.beatriz.costa@email.com",
+    "celular": "(41) 99123-4567",
+    "senha": "Annamaria@8374"
+  },
+  {
+    "nome": "Rafael Mendes Oliveira",
+    "cpf": "672.981.345-09",
+    "cep": "81230-050",
+    "nascimento": "1995-08-10",
+    "rua": "Rua Desembargador Motta",
+    "numero": "872",
+    "bairro": "Mercês",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "email": "rafael.mendes@email.com",
+    "celular": "(41) 98456-7890",
+    "senha": "Rafael123!"
+  },
+  {
+    "nome": "yasmin silva",
+    "cpf": "592.963.764-98",
+    "cep": "09855-445",
+    "nascimento": "2009-12-25",
+    "rua": "Avenida isaac ferreira",
+    "numero": "1456",
+    "bairro": "sitio cercado",
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "email": "yasminchecon2836@email.com",
+    "celular": "(42) 998228254",
+    "senha": "yas@2512"
+  }
+]
